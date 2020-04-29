@@ -5,3 +5,4 @@ Binaries for misc. stuff
 Version 81.0.4044.122
 #### Chromium  
 Version 81.0.4044.122
+.gitattributes
