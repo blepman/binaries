@@ -1,2 +1,2 @@
 # binaries
-Binaries formisc stuff
+Binaries for misc. stuff
